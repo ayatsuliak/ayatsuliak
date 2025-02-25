@@ -1,7 +1,7 @@
 
-<h2 align="center">💫 About Me</h2>
+<h2 align="center">Hi there 👋</h2>
 
-<p align="center">I am a software engineer specializing in Python development and pursuing a degree in Computer Science. My expertise lies in creating RESTful APIs and robust backend systems.<br>I am passionate about solving challenging problems and writing clean and efficient code.</p>
+<p align="center">I am a software engineer specializing in Python development and pursuing a degree in Computer Science. <br>My expertise lies in creating RESTful APIs and robust backend systems.<br>I am passionate about solving challenging problems and writing clean and efficient code.</p>
 
 
 
@@ -43,6 +43,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayatsuliak&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Andrii's GitHub streak" />
 </p>
+
+<div align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayatsuliak/ayatsuliak/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+</div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ayatsuliak&icon=1&color=0)](https://visitcount.itsvg.in)
